@@ -104,9 +104,7 @@ This project is part of the Deloitte Virtual Internship via Forage and is intend
 ## 🙋‍♂️ About Me
 
 **Vaishakh K**  
-Aspiring Data Analyst | Excel | MySQL | Python | Tableau | Power BI
+Data Analyst | Excel | MySQL | Python | Tableau | Power BI
 [LinkedIn](https://www.linkedin.com/in/vaishakh-k-0b2bb8202/) • [Portfolio](https://github.com/vaishakh9517)
 
 
-
- so this is how the reamd.md should look like?
